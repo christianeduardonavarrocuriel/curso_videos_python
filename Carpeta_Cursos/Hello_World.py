@@ -4,7 +4,7 @@ class hello:
 ##Ahora, lo que haremos sera definir el método, que aqui el metodo sera "__init__", que tambien se le conoce como "método constructor"
     def __init__(self):
 ##Aqui, imprimiremos lo que queremos que se imprima, en este caso, queremos que se imprima "¡¡Hello World!!
-        print("¡¡Hello World")
+        print("¡¡Hello World!!")
 
 
 """
